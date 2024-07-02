@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # server/seed.py
 
 import datetime
@@ -45,3 +44,4 @@ with app.app_context():
     # Many-to-many relationship between employee and meeting
 
     # Many-to-many relationship between employee and project through assignment
+
